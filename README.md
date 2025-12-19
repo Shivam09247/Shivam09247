@@ -1,90 +1,84 @@
-# Shivam Kumar 👋
-AI Engineer | IIT Roorkee | IIT Madras alumnus | MTech Applied Mathematics & Scientific Computing
+# 👋 Hi, I'm Shivam Kumar
 
-📍 Delhi, India  
-📱 +91 78806 00562  
-✉️ shivam_k1@amsc.iitr.ac.in  
-🔗 [LinkedIn](https://www.linkedin.com/in/shivamkumar2011)
+<div align="center">
+  <img src="./.assets/bg.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Digital Twin & AI Developer">
+</div>
 
----
+<div align="center">
+  <h1>Shivam Kumar</h1>
+  <p><i>AI Engineer | MCP & RAG Systems | AI Agents & MLOps Enthusiast</i></p>
+</div>
 
-## 👨‍💻 About Me
-I'm an AI Engineer with a strong foundation in Machine Learning, NLP, LLMs, AI Agents, and Retrieval-Augmented Generation (RAG). I design and build intelligent systems — from RAG pipelines and autonomous agents to scalable, production-ready ML solutions. My work focuses on combining retrieval, reasoning, and automation to deliver real-world value.
+## 🌟 About Me
 
-I enjoy end-to-end AI engineering: model development, multi-step reasoning agents, data processing pipelines, experimentation, deployment, and MLOps. I'm continuously expanding my expertise through hands-on projects in deep learning, MLOps, and generative AI.
+I'm an AI Engineer with a strong foundation in Machine Learning, NLP, LLMs, AI Agents, and Retrieval-Augmented Generation (RAG). I design and build intelligent AI systems ranging from RAG pipelines and autonomous agents to end-to-end machine learning solutions that are scalable, reliable, and business-driven.
 
----
+My experience spans AI engineering and data science roles, where I’ve worked on model development, RAG-based chatbots, NLP workflows, multi-step reasoning agents, data processing pipelines, experimentation, and deployment on cloud platforms. I particularly enjoy creating production-ready AI architectures that combine retrieval, reasoning, and automation.
 
-## 🔭 Current Focus & Interests
-- Building and deploying RAG systems and AI Agents
-- Designing scalable ML infra and MLOps pipelines (CI/CD for ML)
-- Advanced NLP, LLM fine-tuning & prompting strategies
-- Vector databases, hybrid memory systems, and shared-memory agent workflows
-- Experimenting with lightweight/local LLMs and GPU optimization
+I’m continuously expanding my expertise through hands-on projects in deep learning, MLOps, and enterprise GenAI development — always looking to push the boundaries of what AI systems can do.
 
----
+- 👨‍💻 Pronouns: he/him  
+- 📫 How to reach me: [shivam_k1@amsc.iitr.ac.in](mailto:shivam_k1@amsc.iitr.ac.in)  
+- 🔗 GitHub: [github.com/Shivam09247](https://github.com/Shivam09247)
 
-## 🚀 Core Skills
-- AI Engineering | AI Agents | RAG Systems | MCP | LLMs | LangChain | LangGraph
-- Python | PyTorch | Deep Learning | NLP | Prompt Engineering
-- Docker | CI/CD | MLOps | MLflow | Airflow | ETL Pipelines
-- AWS | GCP | Azure | Cloud Deployments
-- Data Engineering | Applied Mathematics | Statistical Modeling
+## 💻 Technologies & Skills
 
----
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
 
-## 🛠 Technologies & Tools
-- Languages: Python, Java, JavaScript/TypeScript
-- Frameworks: FastAPI, (React/Next.js familiarity)
-- Databases: PostgreSQL, vector DBs (Qdrant, FAISS), Supabase
-- Orchestration & Infra: Docker, GitHub Actions, Cloud (AWS)
-- LLM & Agent tools: LangChain, Autogen, LangGraph, Pydantic-AI
+  <!-- ML / DL Frameworks -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
 
----
+  <!-- LLM / Agent / Vector Tooling -->
+  <img src="https://img.shields.io/badge/LangChain-1F75FE?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-00A3E0?style=for-the-badge" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/LangGraph-0EA5E9?style=for-the-badge" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/AutoGen-06B6D4?style=for-the-badge" alt="AutoGen"/>
+  <img src="https://img.shields.io/badge/FAISS-111827?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Pinecone-4F46E5?style=for-the-badge" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FF9100?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
 
-## ✨ Projects (selected)
-- RAG-based chatbots & knowledge systems — retrieval + reasoning pipelines
-- Autonomous AI Agents — multi-step agent workflows for automation
-- End-to-end ML solutions — from data pipelines to model deployment and monitoring
-- Research & experimentation projects in agentic systems and memory architectures
+  <!-- Cloud & Infra -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/MODEL_CONTEXT_PROTOCOL-6B7280?style=for-the-badge" alt="MCP"/>
 
----
+  <!-- Data & Analytics -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel"/>
 
-## 🧾 Experience
-- Nirnaya — AI Engineer (June 2025 - Present) — Delhi, India  
-- Tooliqa — Data Science Intern (Feb 2025 - May 2025)  
-- Stormlight Synergies — AI/ML Intern (May 2024 - Aug 2024) — Gurugram  
-- Placement and Internship Cell, IIT Roorkee — Department Placement Representative (Jul 2023 - May 2025)
+  <!-- Audio / NLP Libraries -->
+  <img src="https://img.shields.io/badge/Librosa-FF6B6B?style=for-the-badge" alt="Librosa"/>
+  <img src="https://img.shields.io/badge/Gensim-009688?style=for-the-badge" alt="Gensim"/>
+  <img src="https://img.shields.io/badge/NLTK-36454F?style=for-the-badge" alt="NLTK"/>
 
----
+  <!-- Deployment & Web / MLOps -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/MLOps-111827?style=for-the-badge" alt="MLOps"/>
+</p>
 
-## 🎓 Education
-- Indian Institute of Technology, Roorkee — MTech, Applied Mathematics & Scientific Computing (Jul 2023 - May 2025)  
-- Indian Institute of Technology, Madras — MSc Mathematics (2021 - 2023)  
-- Banaras Hindu University — BSc Mathematics (2018 - 2021)  
-- Jawahar Navodaya Vidyalaya (JNV) — Intermediate
+## 🔭 I'm currently working on
 
----
 
-## 🏆 Certifications
-- Google Advanced Data Analytics
-
----
-
-## 🔝 Top Skills
-- Docker
-- AI Agents
-- GeoPandas (data/geospatial processing)
-
----
-
-## 🤝 Let’s Collaborate
-I’m open to collaborating on AI agent systems, RAG architectures, LLM-integrated applications, and MLOps workflows. If you’re building something in these spaces — reach out!
-
-- Email: shivam_k1@amsc.iitr.ac.in  
-- Phone: +91 78806 00562  
-- LinkedIn: [shivamkumar2011](https://www.linkedin.com/in/shivamkumar2011)
+- Improving MLOps workflows: CI/CD for models, monitoring, and reproducible experiment pipelines
+- Optimizing local and lightweight LLM deployments and embedding/retrieval pipelines
 
 ---
 
-⚡ Fun fact: I enjoy tackling challenging ML research problems and turning them into reliable production systems.
