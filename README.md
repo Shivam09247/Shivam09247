@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shivam Kumar
 
 <div align="center">
-  <img src="./.assets/bg.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Digital Twin & AI Developer">
+  <img src="./.assets/bg.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="AI Engineer">
 </div>
 
 <div align="center">
