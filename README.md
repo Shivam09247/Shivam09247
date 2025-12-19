@@ -76,7 +76,7 @@ I’m continuously expanding my expertise through hands-on projects in deep lear
 
 ## 🔭 I'm currently working on
 
-
+- Productionizing RAG pipelines and embeddings/indexing workflows for low-latency, production-ready deployments
 - Improving MLOps workflows: CI/CD for models, monitoring, and reproducible experiment pipelines
 - Optimizing local and lightweight LLM deployments and embedding/retrieval pipelines
 
